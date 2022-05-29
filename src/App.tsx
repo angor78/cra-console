@@ -10,6 +10,8 @@ function App() {
         <p>
           Edit <code>src/App.tsx</code> and save to reload.
           <p>Lorem ipsum dolor.</p>
+          <p>Lorem ipsum dolor.</p>
+          <p>Lorem ipsum dolor.</p>
         </p>
         <a
           className="App-link"
