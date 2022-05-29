@@ -5,7 +5,7 @@ export const User = () => {
   return(
     <div>
       <h2>User</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur.</p>
+      <p>Lorem ipsum dolor sit amet, consectetur1.</p>
     </div>
   )
 }
